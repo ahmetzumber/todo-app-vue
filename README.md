@@ -1,4 +1,4 @@
-## todoapp
+## To Do App
  Main goal: Working on data passing from child component to parent component with event emitting on Vue 3.
 
 ## Project setup
